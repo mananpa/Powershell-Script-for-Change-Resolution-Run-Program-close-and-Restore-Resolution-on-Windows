@@ -1,3 +1,6 @@
+# Install DisplaySettings
+Install-Module -Scope CurrentUser -Force -Name DisplaySettings
+
 # Application path
 $appPath = "C:\Program Files\TeamViewer\TeamViewer.exe"
 # New resolution
