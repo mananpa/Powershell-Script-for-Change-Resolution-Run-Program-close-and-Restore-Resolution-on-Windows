@@ -10,4 +10,5 @@ $newWidth = 1400
 $newHeight = 1050
 
 Revert to the original resolution:
+
 Set-DisplayResolution -Width 1920 -Height 1080
